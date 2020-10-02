@@ -1,4 +1,4 @@
-# flutter_nau_itera_client
+# flutter_client
 
 A new Flutter project.
 
